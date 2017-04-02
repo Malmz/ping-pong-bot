@@ -1,4 +1,4 @@
-# Ping Pong bot [![Build Status](https://travis-ci.org/Malmz/ping-pong-bot.svg?branch=master)](https://travis-ci.org/Malmz/ping-pong-bot)
+# Ping Pong bot
 A simple discord bot writen in rust.
 
 Commands:
